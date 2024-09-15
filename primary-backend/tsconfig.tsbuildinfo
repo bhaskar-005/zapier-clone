@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middleware/index.ts","./src/prismaclient/index.ts","./src/router/action.ts","./src/router/triggers.ts","./src/router/user.ts","./src/router/zap.ts","./src/types/zod.ts"],"version":"5.6.2"}
